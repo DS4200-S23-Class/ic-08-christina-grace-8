@@ -1,7 +1,7 @@
 # ic-08
 ic-08 - Intro to D3 Part 2
 
-Link to GitHub Pages: [link] (https://ds4200-s23-class.github.io/ic-08-christina-grace-8/)
+Link to GitHub Pages: (link) [https://ds4200-s23-class.github.io/ic-08-christina-grace-8/]
 
 ## Purpose
 
